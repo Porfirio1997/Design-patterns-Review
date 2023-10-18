@@ -4,43 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71e3f12-3e86-4fdb-956f-f820537e7d7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-patterns-Review.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/CalculateRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/CalculateRateCielo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/CalculateRateMercadoPago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/CalculateRatePayPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/Factories/DarkUserPreferenceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/Factories/LightUserPreferenceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/Factories/UserPreferenceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/Background/Background.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/Background/DarkBackground.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/Background/LightBackground.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/Buttons/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/Buttons/DarkButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/Buttons/LightButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/CheckBox/Checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/CheckBox/DarkCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/CheckBox/LightCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/Text/DarkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/Text/LightText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/props/Text/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/Singleton/SingletonEager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/Singleton/SingletonLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/Singleton/SingletonLazyHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/Singleton/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="e71e3f12-3e86-4fdb-956f-f820537e7d7a" name="Changes" comment="Initial feat: design patterns - Singleton,Abstract Factory and Strategy">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,25 +26,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2WqPrfJbBx32SRWL2pEjc99sPGI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Creational.AbstractFactory.Test">
     <configuration name="Behavioral.Strategy.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Behavioral.Strategy.Test" />
@@ -137,6 +102,19 @@
       <option name="presentableId" value="Default" />
       <updated>1697457339784</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial feat: design patterns - Singleton,Abstract Factory and Strategy">
+      <option name="closed" value="true" />
+      <created>1697631587438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697631587438</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial feat: design patterns - Singleton,Abstract Factory and Strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial feat: design patterns - Singleton,Abstract Factory and Strategy" />
   </component>
 </project>
